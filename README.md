@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
+  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/code-n-cool/halcyon-vscode/master/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Halcyon Theme for VS Code
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/code-n-cool/halcyon-vscode/master/images/demo.png)
 
 ## Installation via VS Code
 
@@ -31,7 +31,7 @@
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/code-n-cool/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
 
 ## Icon Theme
 
