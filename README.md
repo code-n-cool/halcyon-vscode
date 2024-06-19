@@ -1,37 +1,37 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/code-n-cool/halcyon-vscode/master/images/logo.png" width="100" />
+  <img alt="Gorgeus Logo" src="https://raw.githubusercontent.com/code-n-cool/Gorgeus-vscode/master/images/logo.png" width="100" />
 </p>
 <h1 align="center">
-  Halcyon Theme for VS Code
+  Gorgeus Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
+  A minimal, dark blue theme for <a href="https://Gorgeus-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
 </p>
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/brittanychiang.halcyon-vscode?color=brightgreen" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=jamesramos.Gorgeus-vscode">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/jamesramos.Gorgeus-vscode?color=brightgreen" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/brittanychiang.halcyon-vscode" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=jamesramos.Gorgeus-vscode">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/jamesramos.Gorgeus-vscode" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/brittanychiang.halcyon-vscode" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=jamesramos.Gorgeus-vscode">
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/jamesramos.Gorgeus-vscode" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/code-n-cool/halcyon-vscode/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/code-n-cool/Gorgeus-vscode/master/images/demo.png)
 
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Halcyon`
+2. Search for `Gorgeus`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Halcyon**
+5. Code > Preferences > Color Theme > **Gorgeus**
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/code-n-cool/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/code-n-cool/Gorgeus-vscode/blob/master/vsc-extension-quickstart.md)
 
 ## Icon Theme
 
@@ -87,4 +87,4 @@ vsce publish patch/minor/major
 
 ## Shameless Plug
 
-Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
+Gorgeus is also available for [Sublime Text, Atom, iTerm, and more!](https://Gorgeus-theme.netlify.com/).
